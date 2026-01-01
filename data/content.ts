@@ -8,7 +8,7 @@
 // HERO SECTION
 // =============================================================================
 export const HERO_CONTENT = {
-    topBadge: 'Est. 2024 — Tradition & Innovation',
+    topBadge: 'Est. 2014 — Tradition & Innovation',
     mainTitle: {
         line1: 'TRADITION',
         line2: 'EVOLVED',
@@ -44,7 +44,7 @@ export const MANIFESTO_CONTENT = {
         line1: 'We Craft Flavors',
         line2: 'That Spark Joy.',
     },
-    quote: '"Born in a grandmother\'s kitchen, raised by community, and serving joy to your table since 2024."',
+    quote: '"Born in a grandmother\'s kitchen, raised by community, and serving joy to your table since 2014."',
 } as const;
 
 // =============================================================================
@@ -195,7 +195,7 @@ export const FOOTER_CONTENT = {
             url: '/privacy',
         },
     ],
-    copyright: '© 2024 Habitat',
+    copyright: '© 2014 Habitat',
     location: 'Kerala — India',
     brandName: 'HABITAT',
 } as const;

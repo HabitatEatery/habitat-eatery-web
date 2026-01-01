@@ -20,7 +20,7 @@ All text content, copy, and data across the Habitat Eatery website is now centra
 
 ```typescript
 export const HERO_CONTENT = {
-  topBadge: 'Est. 2024 — Future Gastronomy',
+  topBadge: 'Est. 2014 — Future Gastronomy',
   mainTitle: {
     line1: 'TASTE',
     line2: 'BOLDLY',
