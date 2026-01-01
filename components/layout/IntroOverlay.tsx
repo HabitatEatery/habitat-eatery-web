@@ -11,7 +11,7 @@ const IntroOverlay: React.FC<IntroOverlayProps> = ({ isExiting }) => {
       className={`fixed inset-0 z-[10000] flex items-center justify-center bg-pop-green text-white overflow-hidden transition-transform duration-700 ease-[cubic-bezier(0.76,0,0.24,1)] ${isExiting ? '-translate-y-full' : 'translate-y-0'}`}
     >
       <div className="relative flex flex-col items-center w-full max-w-md px-6 animate-scale-in">
-        <h1 className="text-6xl md:text-8xl font-display font-black tracking-tighter text-center">
+        <h1 className="text-[10vw] font-display font-black tracking-tighter text-center leading-none">
           {INTRO_CONTENT.brandName}
         </h1>
 
